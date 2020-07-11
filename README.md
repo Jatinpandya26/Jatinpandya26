@@ -2,10 +2,10 @@
 - Aspiring Product Manager ।। ☁️ Cloud Evangelist
 
 ## Professional Identitty
-Amazon ASI 2.0 , ## Microsoft Student Partner
+Amazon ASI 2.0 , Microsoft Student Partner
 
 ## Community Identity -
-Organizer - Amazon Alexa - Jaipur, ## Google Crowdsource Regional Influencer & Organiser @ Google CrowdSource Jaipur
+Organizer - Amazon Alexa - Jaipur, Google Crowdsource Regional Influencer & Organiser @ Google CrowdSource Jaipur
 
 
 ## 🔭 I’m currently working on ...
