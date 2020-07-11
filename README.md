@@ -1,4 +1,4 @@
-### Hi, I'm Jatin (✨Jay) 👋
+# Hi, I'm Jatin (✨Jay) 👋
 - Aspiring Product Manager ।। ☁️ Cloud Evangelist
 
 ## Professional Identitty
@@ -10,30 +10,30 @@ Organizer - Amazon Alexa - Jaipur, ## Google Crowdsource Regional Influencer & O
 
 ## 🔭 I’m currently working on ...
 
-# Cloud Applications Dev
-# Advance Voice Applications Dev
+### Cloud Applications Dev
+### Advance Voice Applications Dev
 
-## 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning ...
 
-# React Native & Gatsby, 
-# Azure Advanced
-# Implementing Google Cloud on Industrial Projects
+### React Native & Gatsby, 
+### Azure Advanced
+##### Implementing Google Cloud on Industrial Projects
 
 ## 🤔 I’m looking for help with ...
-# A Career in Product/Program Management
+### A Career in Product/Program Management
 
 ## 💬 Ask me about ...
-# Cloud 
-# Voice
-# Product Management
-# Strategic Problem Solving
-# Mentoring
-# A Cup of Tea is always on board :)
+### Cloud 
+### Voice
+### Product Management
+### Strategic Problem Solving
+### Mentoring
+### A Cup of Tea is always on board :)
 
 ## 📫 How to reach me: ...
-# Jatinjpnd268@gmail.com
-# LinkedIn - https://www.linkedin.com/in/jatinjpnd268/
+### Jatinjpnd268@gmail.com
+### LinkedIn - https://www.linkedin.com/in/jatinjpnd268/
 
 ## ⚡ Fun fact: ...
-# I was one of the only Amazon ASI amoung only 10 fellow students across India.
+### I was one of the only Amazon ASI amoung only 10 fellow students across India.
 -->
