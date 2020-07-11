@@ -13,7 +13,7 @@ Organizer - Amazon Alexa - Jaipur, Google Crowdsource Regional Influencer & Orga
 ### Cloud Applications Dev
 ### Advance Voice Applications Dev
 
-#### 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 ### React Native & Gatsby, 
 ### Azure Advanced
