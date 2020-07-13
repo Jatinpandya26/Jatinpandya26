@@ -17,7 +17,7 @@ Organizer - Amazon Alexa - Jaipur, Google Crowdsource Regional Influencer & Orga
 
 ### React Native & Gatsby, 
 ### Azure Advanced
-##### Implementing Google Cloud on Industrial Projects
+### Implementing Google Cloud on Industrial Projects
 
 ## 🤔 I’m looking for help with ...
 ### A Career in Product/Program Management
@@ -35,5 +35,5 @@ Organizer - Amazon Alexa - Jaipur, Google Crowdsource Regional Influencer & Orga
 ### LinkedIn - https://www.linkedin.com/in/jatinjpnd268/
 
 ## ⚡ Fun fact: ...
-### I was one of the only Amazon ASI amoung only 10 fellow students across India.
+### I am one of the only 10 Amazon ASI 2.0s across India.
 -->
