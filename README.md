@@ -17,5 +17,6 @@
 .
 ## 💬 How to reach me:
 ### Jatinjpnd268@gmail.com
-### https://img.icons8.com/color/2x/linkedin.png LinkedIn - https://www.linkedin.com/in/jatinjpnd268/
--->
+###  LinkedIn - https://www.linkedin.com/in/jatinjpnd268/
+--> 
+<a href="https://img.icons8.com/color/2x/linkedin.png" width="50px;" alt=""/><br />
