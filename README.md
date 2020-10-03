@@ -17,5 +17,5 @@
 .
 ## 💬 How to reach me:
 ### Jatinjpnd268@gmail.com
-###  <td align="left"><a href="https://www.linkedin.com/in/jatinjpnd268/"><img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=20&h=20&crop=1" alt=""/><br /></a><br /></td> - https://www.linkedin.com/in/jatinjpnd268/
+###  <td align="right"><a href="https://www.linkedin.com/in/jatinjpnd268/"><img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=50&h=50&crop=1" alt=""/><br /></a><br /></td> - Let's Connect
 --> 
