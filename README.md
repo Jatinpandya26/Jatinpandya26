@@ -19,4 +19,4 @@
 ### Jatinjpnd268@gmail.com
 ###  LinkedIn - https://www.linkedin.com/in/jatinjpnd268/
 --> 
-<td align="center"><a href="https://www.linkedin.com/in/jatinjpnd268/"><img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" alt=""/><br /><sub><b>LinkedIn</b></sub></a><br /></td>
+<td align="left"><a href="https://www.linkedin.com/in/jatinjpnd268/"><img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=100&h=100&crop=1" alt=""/><br /></a><br /></td>
