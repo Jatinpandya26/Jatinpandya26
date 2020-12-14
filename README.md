@@ -1,3 +1,7 @@
+[![Twitter Badge](https://img.shields.io/badge/-@Jpandya26-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jpandya26)](https://twitter.com/Jpandya26) [![Linkedin Badge](https://img.shields.io/badge/-JatinPandya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinjpnd268/)](https://www.linkedin.com/in/jatinjpnd268/)
+[![Gmail Badge](https://img.shields.io/badge/-jatinjpnd268@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jatinjpnd268@gmail.com)](mailto:jatinjpnd268@gmail.com)
+
+---
 # Hi, I'm Jatin (✨Jay) 👋
 
 ## 🧑🏻‍💼 Who?
@@ -19,3 +23,5 @@
 ### Jatinjpnd268@gmail.com
 ###  <td align="right"><a href="https://www.linkedin.com/in/jatinjpnd268/"><img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=50&h=50&crop=1" alt=""/><br /></a><br /></td> - Let's Connect
 --> 
+
+![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=Jatinpandya26&show_icons=true)
