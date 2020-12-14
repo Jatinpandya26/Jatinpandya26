@@ -20,10 +20,6 @@
 .
 ## 🤖 Fact? 
 ### When I'm not doing something for enhancing my skills or exploring opportunities, I'm executing or preparing plan A-Z for future steps of career. I don't like to waste a second of my time doing something that's not profitable for my career or fitness.
-.
-## 💬 How to reach me:
-### Jatinjpnd268@gmail.com
-###  <td align="right"><a href="https://www.linkedin.com/in/jatinjpnd268/"><img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=50&h=50&crop=1" alt=""/><br /></a><br /></td> - Let's Connect
 --> 
 
 ![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=Jatinpandya26&show_icons=true)
