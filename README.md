@@ -9,7 +9,7 @@
 ### I'm a Junior Year Computer Science Engineering undergrad aspire to be a Product Manager & UX Designer, passionate about empowering and Impacting the lives of different individuals.
 
 ## ⚡ My Skills Stack?
-### Product Management & UX Design, Wireframing & Prototyping (Tools - Figma, Balsamiq & Framer), User Pain-Points Analysis & Management, Cloud & Voice Apps Development (Mainline Implementation - Python). 
+### Python, Voice & Cloud Apps Development, UX Design, Wireframing & Prototyping (Tools - Figma, Balsamiq & Framer), User Pain-Points Analysis & Management. 
 
 ## 🌱 Professional Identity?
 ### An Active Member of Esteemed Student Programs - Microsoft Learn Student Ambassador, Amazon Alexa Student Influencer and Former β-Microsoft Student Partner, and more.
