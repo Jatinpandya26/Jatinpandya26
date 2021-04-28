@@ -6,7 +6,7 @@
 ---
 
 ## 🧑🏻‍💼 Who?
-### I'm a Junior Year Computer Science Engineering undergrad aspire to be a Product Manager & UX Designer passionate about empowering and Impacting the lives of different individuals.
+### I'm a Junior Year Computer Science Engineering undergrad aspire to be a Product Manager & UX Designer, passionate about empowering and Impacting the lives of different individuals.
 .
 ## ⚡ My Skills Stack?
 ### Product Management & UX Design, Wireframing & Prototyping (Tools - Figma, Balsamiq & Framer), User Pain-Points Analysis & Management, Cloud & Voice Apps Development (Mainline Implementation - Python). 
