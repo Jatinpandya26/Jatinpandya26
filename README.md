@@ -1,8 +1,5 @@
 I'm Jatin. a computer science undergrad at India!
  
-- Check out my Blog: [Jatinp.live](Jatinp.live)
-- Write to me: [@ljatinp.live](mailto:Jatinjpnd268@gmail.com)
-
 <h2>📫 Reach out:</h2>
 
 <p align='center'>
