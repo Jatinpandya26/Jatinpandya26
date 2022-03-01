@@ -1,4 +1,5 @@
-I'm Jatin. a computer science undergrad at India!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jatin!](https://www.linkedin.com/in/jatinjpnd268) 
+I'm a Senior Year Computer Science Engineering Undergrad and Product & DevRel Intern at <img src="https://s3.amazonaws.com/challengepost/sponsors/logos/000/024/198/highres/The___Company_-_Wordmark1200px.png". I'm passionate about Impacting and empowering the lives of various users with the products & organization I work at advocating compassion-in-technology.
  
 <h2>📫 Reach out:</h2>
 
