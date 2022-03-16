@@ -5,14 +5,6 @@
 I'm a Senior Year Computer Science Engineering Undergrad and Product & DevRel Intern at <img src="https://s3.amazonaws.com/challengepost/sponsors/logos/000/024/198/highres/The___Company_-_Wordmark1200px.png" width="180px">. 
 
 I'm passionate about Impacting and empowering the lives of various users with the products & organization I work at advocating compassion-in-technology.
-
-<h2>👀 Stats</h2>
-
-<div>  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinpandya26" alt="GitHub Stats" /> <br/><br/>
-</div>
  
 <h2>📫 Reach out:</h2>
 
