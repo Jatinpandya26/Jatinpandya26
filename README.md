@@ -1,5 +1,5 @@
 ![Banner LINK](https://)
-## Hey, I'm [Jatin!](https://www.linkedin.com/in/jatinjpnd268) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="90px">
+## Hey, I'm [Jatin!](https://www.linkedin.com/in/jatinjpnd268) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQHGywLmUgg7aw/profile-displaybackgroundimage-shrink_350_1400/0/1617688131789?e=1651708800&v=beta&t=P118AiseoGawjrvFZVO9RkCP8PesrD2nELX1t-OoPQw)
 
