@@ -3,7 +3,7 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQHGywLmUgg7aw/profile-displaybackgroundimage-shrink_350_1400/0/1617688131789?e=1651708800&v=beta&t=P118AiseoGawjrvFZVO9RkCP8PesrD2nELX1t-OoPQw)
 
-I'm a Computer Science Engineering Undergrad working as a Product Growth and Community Team Member at <a href="https://atsign.com"></a><img src="https://atsign.com/wp-content/uploads/2022/05/atsign-logo-horizontal-color2022.svg" width="90px">. I'm someone passionate about Impacting and empowering the lives of various users with the products & organizations I work at advocating compassion-in-technology.  
+I'm a Computer Science Engineering Undergrad working as a Product Growth and Community Team Member at [AtSign](https://atsign.com). I'm someone passionate about Impacting and empowering the lives of various users with the products & organizations I work at advocating compassion-in-technology.  
  
 ### ⚙️ &nbsp;GitHub Analytics
 
