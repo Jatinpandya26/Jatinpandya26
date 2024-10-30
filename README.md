@@ -1,9 +1,7 @@
-![Banner LINK](https://raw.githubusercontent.com/Jatinpandya26/Jatinpandya26/master/1617688131789.jpg)
 ## Hey, I'm [Jatin!](https://www.linkedin.com/in/jatinjpnd268) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQHGywLmUgg7aw/profile-displaybackgroundimage-shrink_350_1400/0/1617688131789?e=1651708800&v=beta&t=P118AiseoGawjrvFZVO9RkCP8PesrD2nELX1t-OoPQw)
 
-I'm a Computer Science Engineering Undergrad working as a Product Growth and Community Team Member at [AtSign](https://atsign.com). I'm someone passionate about Impacting and empowering the lives of various individuals with the products & organizations I work at advocating compassion-in-technology.  
  
 ### ⚙️ &nbsp;GitHub Analytics
 
